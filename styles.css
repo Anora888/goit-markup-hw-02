@@ -1,0 +1,59 @@
+body {
+  font-family: "Roboto", sans-serif;
+  color: #434455;
+  font-weight: 500;
+}
+a {
+    text-decoration: none;
+    color: #2E2F42;
+}
+* {
+    list-style: none;
+}
+h3 {
+  color: #2E2F42;
+  font-size: 20px;
+}
+p {
+  font-size: 16px;
+  line-height: 1.5;
+}
+h1 {
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 1.07;
+    color: #ffffff;
+}
+h2 {
+    font-size: 36px;
+    line-height: 1.1;
+    color: #2E2F42;
+    font-weight: 700;
+}
+.my-button {
+    cursor: pointer;
+    background-color: #4D5AE5;
+    color: #ffffff;
+}
+a {
+  font-family: "Releway", sans-serif;
+  font-weight: 500;
+}
+.webstudio {
+  font-weight: 700;
+}
+.business {
+  background-color: #2E2F42;
+}
+.footer {
+  background-color: #2E2F42;
+}
+.web-studio-span {
+  color: #4D5AE5;
+}
+.studio-span {
+  color: #F4F4FD;
+}
+.footer-p {
+  color: #F4F4FD;
+}
